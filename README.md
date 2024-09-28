@@ -2,6 +2,12 @@
 
 Marca del repositorio = Daniel Forero - Santiago Bazzani
 
+securing-endpoints-esto-saldra-bien.vercel.app
+Deployment
+securing-endpoints-esto-saldra-bien-qsruysfs7.vercel.app
+Domains
+securing-endpoints-esto-saldra-bien.vercel.app
+
 # Taller en Parejas: Creación de una API REST con Express.js - Parte 2
 
 Este proyecto consiste en un reto de desarrollo backend en el que se debe crear una API REST utilizando el framework Express.js. El objetivo principal es que los estudiantes implementen múltiples rutas utilizando `express.Router()` para organizar su código de manera modular.
