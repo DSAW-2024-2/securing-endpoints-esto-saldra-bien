@@ -2,7 +2,6 @@
 
 # Daniel Forero - Santiago Bazzani
 
-securing-endpoints-esto-saldra-bien.vercel.app
 Deployment
 securing-endpoints-esto-saldra-bien-qsruysfs7.vercel.app
 Domains
